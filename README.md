@@ -22,4 +22,4 @@ Hi there 👋<br>Here is FireBlaze360308!<br>I'm a young developer, i'm still a 
 [![](https://visitcount.itsvg.in/api?id=FireBlaze360308YT&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/Bh9QBcxZ1g?theme=dark&font=Dokdo&ext=heatmap)
+![LeetCode Stats](https://leetcard.jacoblin.cool/FireBlaze360308?theme=dark&font=Dokdo&ext=heatmap)
